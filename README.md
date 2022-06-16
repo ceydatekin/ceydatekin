@@ -1,4 +1,5 @@
-﻿<h1 align="center">Hi 👋, I'm Ceyda</h1>
+﻿<div align=center>
+ <h1 align="center">Hi 👋, I'm Ceyda</h1>
 <h3 align="center">Jr. Web Developer | Blogger |  From Turkey</h3>
 
 <h3 align="left">Connect & Follow Me:</h3>
@@ -38,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceydatekin&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="ceydatekin" /></p>
 
-
+</div>
