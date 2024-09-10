@@ -1,6 +1,6 @@
 ﻿<div align=center>
  <h1 align="center">Hi 👋, I'm Ceyda</h1>
-<h3 align="center">Jr. Back-End Developer | Blogger |  From Turkey</h3>
+<h3 align="center">Software Back-End Developer | Blogger |  From Turkey</h3>
 
 <h3 align="left">Connect & Follow Me:</h3>
 
