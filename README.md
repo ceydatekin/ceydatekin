@@ -5,7 +5,7 @@
 <h3 align="left">Connect & Follow Me:</h3>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceydatekin/)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ceystechlog/)
+[![](https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ceydatekn85)
 [![Mail Badge](https://img.shields.io/badge/ceydatekn85@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ceydatekn85@gmail.com)](mailto:ceydatekn85@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
