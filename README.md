@@ -43,7 +43,6 @@ I'm a passionate back-end developer with expertise in .NET, microservice archite
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceydatekin&show_icons=true&theme=radical" alt="Ceyda's GitHub stats" />
 <img src="https://streak-stats.demolab.com/?user=ceydatekin&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
